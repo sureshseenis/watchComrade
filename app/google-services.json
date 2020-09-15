@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818389955182",
+    "firebase_url": "https://watchcomrade.firebaseio.com",
+    "project_id": "watchcomrade",
+    "storage_bucket": "watchcomrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818389955182:android:564f883b1789e452d0ec7f",
+        "android_client_info": {
+          "package_name": "com.watch.comrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818389955182-ksc6uvdcq6micdcjvumibkms0eui98ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.watch.comrade",
+            "certificate_hash": "48e76a94ba03f043c300573e3ccdb61c4bd25de8"
+          }
+        },
+        {
+          "client_id": "818389955182-u61u23onbf54ha23h9alg1pgg8amlsek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPFOAc7dIZh0pTzS2iw21sJPwIAdFjq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818389955182-u61u23onbf54ha23h9alg1pgg8amlsek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
